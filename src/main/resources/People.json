@@ -1,0 +1,6 @@
+{name:"Ram",age:"27",gender:"male",likes:"dog,cat,pegeon,cow"}
+{name:"Krishna",age:"27",gender:"male",likes:"cats,pegeon,cow"}
+{name:"Sita",age:"20",gender:"female",likes:"pegeon,cow"}
+{name:"Sita",age:"20",gender:"female",likes:"pegeon"}
+{name:"SitaX",age:"20",gender:"female",likes:"sparrow"}
+{name:"SitaY",age:"20",gender:"female",likes:"crow"}
