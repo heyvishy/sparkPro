@@ -26,11 +26,7 @@
 		<version>2.6.3</version>
 	</dependency>
 	<dependency>
-		<groupId>org.mongodb</groupId>
-		<artifactId>mongo-java-driver</artifactId>
-		<version>3.1.0</version>
-	</dependency>
-	<dependency>
+		<!--  Mongo-hadoop-connector  -->
 		<groupId>org.mongodb</groupId>
 		<artifactId>mongo-hadoop-core</artifactId>
 		<version>1.3.0</version>
