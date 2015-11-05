@@ -15,7 +15,6 @@ public class JsonDataLoad {
         System.out.println("load Json data ..." );
         final ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.configure(JsonParser.Feature.ALLOW_UNQUOTED_FIELD_NAMES, true);
-        //objectMapper.configure(Feature.AUTO_CLOSE_SOURCE, true);
         
         SparkConf sc = new SparkConf();
         JavaSparkContext jsc = null;
